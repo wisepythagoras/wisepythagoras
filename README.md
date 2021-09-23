@@ -7,10 +7,13 @@ I love coding interesting things in [Typescript](https://www.typescriptlang.org/
 
 <!-- For when I'm ready. -->
 <!-- I'm looking for [GitHub sponsors](https://github.com/sponsors/wisepythagoras). -->
-
+<p></p>
 <p align="center">
     <img alt="wisepythagoras' Github stats" src="https://github-readme-stats.vercel.app/api?username=wisepythagoras&count_private=true&line_height=40&show_icons=true&theme=dark" />
     <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisepythagoras&theme=dark" />
+</p>
+<p align="center">
+    <i><a href="https://github.com/anuraghazra/github-readme-stats">This</a> is where I got ☝️ these from.</i>
 </p>
 
 <!--
