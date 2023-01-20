@@ -1,9 +1,9 @@
 ### Hello, there! 👋
 
-I'm a full stack engineer. Please 
+I'm a full stack engineer. Follow me for awesome projects and ideas! 
 [![Github](https://img.shields.io/github/followers/wisepythagoras?label=Follow&style=social)](https://github.com/wisepythagoras)
 
-I love coding interesting things in [Typescript](https://www.typescriptlang.org/) (React, Svelte, etc), [Rust](https://www.rust-lang.org/), and [Go](https://golang.org). I am also a Linux 🐧, BSD, and [Haiku](https://www.haiku-os.org/) fan.
+I love coding interesting things in [Typescript](https://www.typescriptlang.org/) (React, Svelte, etc), [Rust](https://www.rust-lang.org/), Python, and [Go](https://golang.org). I am also a fan of Linux 🐧, BSD, and smaller operating systems like [Haiku](https://www.haiku-os.org/) and [Serenity](https://github.com/SerenityOS/serenity).
 
 <!-- For when I'm ready. -->
 <!-- I'm looking for [GitHub sponsors](https://github.com/sponsors/wisepythagoras). -->
