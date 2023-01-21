@@ -5,6 +5,10 @@ I'm a full stack engineer. Follow me for awesome projects and ideas!
 
 I love coding interesting things in [Typescript](https://www.typescriptlang.org/) (React, Svelte, etc), [Rust](https://www.rust-lang.org/), Python, and [Go](https://golang.org). I am also a fan of Linux 🐧, BSD, and smaller operating systems like [Haiku](https://www.haiku-os.org/) and [Serenity](https://github.com/SerenityOS/serenity).
 
+<p align="center">
+Γηράσκω δ’αεί πολλά διδασκόμενος - As long as I live, I learn
+</p>
+
 <!-- For when I'm ready. -->
 <!-- I'm looking for [GitHub sponsors](https://github.com/sponsors/wisepythagoras). -->
 <p></p>
