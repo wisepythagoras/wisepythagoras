@@ -1,5 +1,7 @@
 ### Hello, there! 👋
 
+![Header](./header-image.png)
+
 I'm a full stack engineer. Follow me for awesome projects and ideas! 
 [![Github](https://img.shields.io/github/followers/wisepythagoras?label=Follow&style=social)](https://github.com/wisepythagoras)
 
@@ -11,6 +13,7 @@ I love coding interesting things in [Typescript](https://www.typescriptlang.org/
 
 <!-- For when I'm ready. -->
 <!-- I'm looking for [GitHub sponsors](https://github.com/sponsors/wisepythagoras). -->
+<!--
 <p></p>
 <p align="center">
     <img alt="wisepythagoras' Github stats" src="https://github-readme-stats.vercel.app/api?username=wisepythagoras&count_private=true&line_height=40&show_icons=true&theme=dark" />
@@ -19,6 +22,7 @@ I love coding interesting things in [Typescript](https://www.typescriptlang.org/
 <p align="center">
     <i><a href="https://github.com/anuraghazra/github-readme-stats">This</a> is where I got ☝️ these from.</i>
 </p>
+-->
 
 <!--
 **wisepythagoras/wisepythagoras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
