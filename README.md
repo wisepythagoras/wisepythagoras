@@ -5,7 +5,7 @@
 I'm a full stack engineer. Follow me for awesome projects and ideas! 
 [![Github](https://img.shields.io/github/followers/wisepythagoras?label=Follow&style=social)](https://github.com/wisepythagoras)
 
-I love coding interesting things in [Typescript](https://www.typescriptlang.org/) (React, Svelte, etc), [Rust](https://www.rust-lang.org/), Python, and [Go](https://golang.org). I am also a fan of Linux 🐧, BSD, and smaller operating systems like [Haiku](https://www.haiku-os.org/) and [Serenity](https://github.com/SerenityOS/serenity).
+I love coding interesting things in [Go](https://golang.org), [Rust](https://www.rust-lang.org/), Python, and [Typescript](https://www.typescriptlang.org/) (React, Svelte, etc). I am also a fan of Linux 🐧, BSD, and smaller operating systems like [Haiku](https://www.haiku-os.org/) and [Serenity](https://github.com/SerenityOS/serenity).
 
 <p align="center">
 Γηράσκω δ’αεί πολλά διδασκόμενος - As long as I live, I learn
